@@ -1,0 +1,11 @@
+dependencies:
+  - python
+  - scipy
+  - numpy
+  - matplotlib
+  - seaborn
+  - tqdm
+  - pip
+  - pip:
+    - git+https://github.com/philipp-baumann/brukeropusreader
+    
