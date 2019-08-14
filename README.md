@@ -18,4 +18,7 @@ The spectroscopic community has so far tested two main types of transfer learnin
 Technical notes
 ---------------
 
--
+``` bash
+# Install packages in coda environment in terminal
+conda env create -n afsis-transfer -f environment.yml
+```
