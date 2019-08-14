@@ -8,4 +8,5 @@ dependencies:
   - pip
   - pip:
     - git+https://github.com/philipp-baumann/brukeropusreader
+    - awscli
     
